@@ -1,0 +1,11 @@
+torch
+numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
+datasets
+tqdm
+streamlit
+wordcloud
+huggingface_hub

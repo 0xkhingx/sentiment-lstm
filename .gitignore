@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+models/*.pt
+embeddings/*.zip
+embeddings/*.txt
+results/*.png
+results/*.json
+results/*.html
